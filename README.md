@@ -24,15 +24,12 @@
 <div align="center">
   <h3 align="center">DBMS</h3>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white/>&nbsp
 </div>
 
-</div>
 
 <br>
 
-</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgs06380&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
