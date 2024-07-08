@@ -29,7 +29,7 @@
   </div>
 
   <div style="flex: 1; min-width: 300px; max-width: 500px; margin: 10px; border: 2px solid #e1e4e8; padding: 10px;">
-    <h3 align="center">📌 Certification 📌</h3>
+    <h3 align="center">📌 Certifications 📌</h3>
     <div align="center">
       <p>❖ 정보처리기사</p>
       <p>❖ 리눅스 마스터 2급</p>
