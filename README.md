@@ -28,11 +28,15 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>&nbsp
 </div>
-<h3 align="center">📃 자격증 📃</h3>
-<h1> 정보처리기사</h1>
-<h1> 리눅스 마스터 2급</h1>
-<h1> 컴퓨터 활용능력 1급</h1>
-
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
-
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div>
+    <h3 align="center">Certifications</h3>
+    <!-- Add your certifications here -->
+    <p align="center">- Certification 1</p>
+    <p align="center">- Certification 2</p>
+    <p align="center">- Certification 3</p>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+  </div>
+</div>
