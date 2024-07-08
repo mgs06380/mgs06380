@@ -32,10 +32,10 @@
   <div>
     <h3 align="center">Certifications</h3>
     <!-- Add your certifications here -->
-    <p align="center">- 정보처리기사</p>
-    <p align="center">- 리눅스 마스터2급</p>
-    <p align="center">- 컴퓨터활용능력 1급</p>
-    <p align="center">- SQLD, AWS(예정)</p>
+    <p align="center">📌 정보처리기사</p>
+    <p align="center">📌 리눅스 마스터2급</p>
+    <p align="center">📌 컴퓨터활용능력 1급</p>
+    <p align="center">📌 SQLD, AWS(예정)</p>
   </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
