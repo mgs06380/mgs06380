@@ -4,13 +4,13 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: center;">
   <div style="flex: 1; min-width: 300px; max-width: 500px; margin: 10px; border: 2px solid #e1e4e8; padding: 10px;">
-    <h2 align="center">Frontend</h2>
+    <h3 align="center">Frontend</h3>
     <div align="center">
       <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp;
       <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
     </div>
 
-  <h2 align="center">Backend & Language</h2>
+  <h3 align="center">Backend & Language</h3>
     <div align="center">
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp;
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
@@ -21,7 +21,7 @@
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" />&nbsp;
     </div>
 
-  <h2 align="center">DBMS</h2>
+  <h3 align="center">DBMS</h3>
     <div align="center">
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
       <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />&nbsp;
