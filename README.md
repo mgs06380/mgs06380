@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ds%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeokHun's%20Git Hub&fontSize=90" />
 
 <!--
 **mgs06380/mgs06380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
